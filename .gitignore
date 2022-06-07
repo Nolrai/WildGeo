@@ -1,8 +1,8 @@
 /build
 /lean_packages/*
 !/lean_packages/manifest.json
-./wdOut.txt
-./wdErr.txt
-./wdIn.txt
-./fwOut.txt
-./fwIn.txt
+wdOut.txt
+wdErr.txt
+wdIn.txt
+fwOut.txt
+fwIn.txt
